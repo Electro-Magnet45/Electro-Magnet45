@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📖 Languages: **Javascript, Dart, Lua**.
-- 💻 Skills: **Reactjs, Nextjs, Flutter, Electron, Nvim**.
+- 💻 Skills: **Reactjs, Nextjs, Flutter, React Native, Electron, Nvim**.
 - 🌱 I’m currently using: **Flutter**.
 - 📫 How to reach me: **Discord - *Naruto Kenta#6397***
 - 😄 Pronouns: **He/Him**.
