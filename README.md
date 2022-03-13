@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**Electro-Magnet45/Electro-Magnet45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📖 Languages: **Javascript, Dart, Lua**.
+- 💻 Skills: **Reactjs, Nextjs, Flutter, Electron, Nvim**.
+- 🌱 I’m currently using: **Flutter**.
+- 📫 How to reach me: **Discord - *Naruto Kenta#6397***
+- 😄 Pronouns: **He/Him**.
 
-Here are some ideas to get you started:
+<h3 align="left">Technologies:</h3>
+<p align="left"><a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Curent update
+[![Discord Presence](https://lanyard.cnrad.dev/api/589075528519122974)](https://discord.com/users/589075528519122974)
+
+# Stats
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5vuu64ytv6biolotws0p5xkhr&count=1)
+<br/>
+<br/>
+
+![Electro-Magnet45's Github Stats](https://github-readme-stats.vercel.app/api?username=Electro-Magnet45&show_icons=true&theme=bear)
+<br/>
+<br/>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Electro-Magnet45&layout=compact)](https://github.com/Electro-Magnet45/)
