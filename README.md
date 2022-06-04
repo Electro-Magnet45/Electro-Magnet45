@@ -12,9 +12,6 @@
 
 # Curent update
 [![Discord Presence](https://lanyard.cnrad.dev/api/589075528519122974)](https://discord.com/users/589075528519122974)
-
-# Stats
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5vuu64ytv6biolotws0p5xkhr&count=1)
 <br/>
 <br/>
 
