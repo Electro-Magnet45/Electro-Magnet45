@@ -4,6 +4,7 @@
 - 💻 Skills: **Reactjs, Nextjs, Flutter, React Native, Electron, Nvim**.
 - 🌱 I’m currently using: **Flutter**.
 - 📫 How to reach me: **Discord - *[ᔕᗩᗰᗩEᒪ._#4451](https://discord.com/users/880732714670624798)***
+-                      **Instagram - *[s.a.m.a.e.l._](https://www.instagram.com/s.a.m.a.e.l._/)*** 
 - 😄 Pronouns: **He/Him**.
 
 <h3 align="left">Technologies:</h3>
