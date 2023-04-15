@@ -12,7 +12,7 @@
 <br/>
 
 # Curent update
-[![Discord Presence](https://lanyard.cnrad.dev/api/880732714670624798?borderRadius=12px)](https://discord.com/users/880732714670624798)
+[![Discord Presence](https://lanyard.cnrad.dev/api/880732714670624798?borderRadius=12px&idleMessage=Chilling)](https://discord.com/users/880732714670624798)
 <br/>
 <br/>
 
